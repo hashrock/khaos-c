@@ -12,4 +12,4 @@ Save the template locally with:
 
 Create a new C project with:
 
-    $ khaos c my-project
+    $ khaos create c my-project
